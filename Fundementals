@@ -1,0 +1,12 @@
+public class Fundementals { 
+    // The first class should have the same nice as the file. 
+    public static void main(String[] args) {
+        System.out.println("helloworld");
+    }
+}
+
+/* 2 main data types
+ * Primitive Types: eg. Boolean, Int, Double, Char.
+ * Reference Types:
+ */
+
