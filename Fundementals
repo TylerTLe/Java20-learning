@@ -7,6 +7,6 @@ public class Fundementals {
 
 /* 2 main data types
  * Primitive Types: eg. Boolean, Int, Double, Char.
- * Reference Types:
+ * Reference Types: String
  */
 
