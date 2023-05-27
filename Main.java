@@ -77,7 +77,7 @@ public class Main {
             } else {
                 System.out.println("Wrong answer!");
             }
-
-
+            // Must close scanner
+            scanner.close();
     }
 }
