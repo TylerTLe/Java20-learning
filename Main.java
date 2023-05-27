@@ -79,5 +79,11 @@ public class Main {
             }
             // Must close scanner
             scanner.close();
+
+            // Errors
+
+            // Logical errors and syntax errors.
+            // Logical erors deal with the logic of a program
+            //  Syntax errors deal with a character or string incorrectly placed in a command or instruction that causes a failure in execution.
     }
 }
